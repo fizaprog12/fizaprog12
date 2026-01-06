@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**fizaprog12/fizaprog12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 Hi, I’m Fiza Butt — a Data Engineer and emerging Data Scientist who enjoys working across the entire data lifecycle,<br> from raw ingestion to meaningful insights.<br> I build scalable data pipelines, automate ETL workflows, and work with cloud‑based systems using AWS, Python, SQL, and Redshift.<br><br>Alongside engineering, I have a strong interest in machine learning, deep learning, and analytical modeling. <br>I’ve worked with Scikit‑learn, TensorFlow, and Keras to explore predictive modeling and real‑world ML use cases. <br>This blend of engineering and data science helps me understand both the technical backbone of data systems and the intelligence built on top of them.<br>=>What I Work With<br>Data Engineering: Python, SQL, PySpark, AWS (S3, Glue, DMS), Redshift<br><br>Data Science: EDA, ML models, deep learning, feature engineering<br><br>Analytics & BI: Power BI, data modeling, KPI reporting<br><br>Tools: Docker, Git, dbt, Soda<br><br>🎯 What I’m Focused On<br>Building clean, reliable, and automated data workflows — and using data science techniques to solve real business problems.
 
 
@@ -24,10 +16,3 @@ Hi, I’m Fiza Butt — a Data Engineer and emerging Data Scientist who enjoys w
 [![](https://visitcount.itsvg.in/api?id=fizaprog12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
